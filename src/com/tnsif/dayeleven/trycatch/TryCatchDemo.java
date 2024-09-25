@@ -19,7 +19,6 @@ public class TryCatchDemo {
 		System.out.println(TryCatchExample.performDivision(12f, 5f));
 		
 		System.out.println("------------------------------");
-		System.out.println(TryCatchExample.performDivision(12f, 0f));
-		
+		System.out.println(TryCatchExample.performDivision(12f, 0f));		
 	}
 }
